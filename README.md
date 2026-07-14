@@ -4,7 +4,7 @@ A fully embedded Digital Twin framework for real-time vehicle health monitoring 
 
 The system fuses 9 live sensor channels into a real-time virtual state model, layers statistical anomaly detection and an online-trained LSTM on top of it, and evaluates 14 rule-based fault conditions every cycle — surfacing everything through a live Flask dashboard.
 
-📄 **[Full Technical Report (PDF)](docs/project-report.pdf)**
+📄 **(https://github.com/pradyothak/digital-twin-vehicle-monitoring/blob/main/dashboard%20pictures%20from%20report.pdf)**
 
 ## Why this project
 
