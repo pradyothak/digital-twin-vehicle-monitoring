@@ -52,26 +52,20 @@ Four concurrent threads (sensor acquisition, LSTM inference, LCD update, Flask s
 
 ## Hardware Prototype
 
-![Hardware prototype](images/fig5-1-hardware-prototype.jpg)
 *Final hardware prototype — sensor placement across fuel/oil tanks, Raspberry Pi, battery pack, and joystick.*
 
 ## Live Dashboard
 
 The system exposes a browser-based dashboard (polling every 2s) across four tabs — **Sensors, Digital Twin, Faults, Summary** — with colour-coded status and CSV export.
 
-![Sensors tab](images/fig5-2-sensors.jpg)
 *Sensors tab — live vehicle readings on the LCD (left) and web dashboard (right).*
 
-![Digital Twin tab](images/fig5-3-digital-twin.jpg)
 *Digital Twin tab — component life accumulators and Z-score anomaly detection.*
 
-![Faults and Summary tabs](images/fig5-4-5-faults-summary.jpg)
 *Faults tab (active fault list) and Summary tab (session overview + sensor averages).*
 
-![Session log](images/fig5-6-session-log.jpg)
 *Session log view — timestamped sensor data, downloadable as CSV.*
 
-> Photos above are captured from the project's printed technical report; the full write-up (with all validation data) is linked at the top of this README.
 
 ## Limitations & Future Work
 
