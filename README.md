@@ -2,7 +2,7 @@
 
 A fully embedded Digital Twin framework for real-time vehicle health monitoring and predictive maintenance — running entirely on a Raspberry Pi 3 Model B+, with **no cloud dependency and no GPU**.
 
-The system fuses 9 live sensor channels into a real-time virtual state model, layers statistical anomaly detection and an online-trained LSTM on top of it, and evaluates 14 rule-based fault conditions every cycle — surfacing everything through a live Flask dashboard.
+The system fuses 9 live sensor channels into a real-time virtual state model, layers statistical anomaly detection and an online-trained LSTM on top of it. It evaluates 14 rule-based fault conditions every cycle — surfacing all findings via a live Flask dashboard.
 
 📄 **(https://github.com/pradyothak/digital-twin-vehicle-monitoring/blob/main/dashboard%20pictures%20from%20report.pdf)**
 
