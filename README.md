@@ -4,8 +4,7 @@ A fully embedded Digital Twin framework for real-time vehicle health monitoring 
 
 The system fuses 9 live sensor channels into a real-time virtual state model, layers statistical anomaly detection and an online-trained LSTM on top of it. It evaluates 14 rule-based fault conditions every cycle — surfacing all findings via a live Flask dashboard.
 
-📄 **(https://github.com/pradyothak/digital-twin-vehicle-monitoring/blob/main/dashboard%20pictures%20from%20report.pdf)**
-
+**[View all dashboard photos](images/)**
 ## Why this project
 
 Most Digital Twin predictive-maintenance systems in the literature depend on cloud infrastructure or GPU-accelerated hardware and typically monitor only one or two vehicle subsystems in isolation. This project shows that a complete, multi-parameter, ML-enabled Digital Twin can run entirely on a $35 single-board computer — while simultaneously covering the electrical, thermal, mechanical, and fluid domains of a vehicle in one unified system.
