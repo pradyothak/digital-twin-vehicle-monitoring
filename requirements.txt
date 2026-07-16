@@ -1,0 +1,8 @@
+flask
+numpy
+RPi.GPIO
+Adafruit_DHT
+Adafruit-BMP
+adafruit-circuitpython-ina219
+RPLCD
+adafruit-blinka
