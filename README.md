@@ -76,4 +76,5 @@ The system exposes a browser-based dashboard (polling every 2s) across four tabs
 
 
 Built as part of a final-year major project at VNR Vignana Jyothi Institute of Engineering & Technology, Department of Electronics & Instrumentation Engineering.
+
 Team - Pradyotha, Harshini, Pranathi
