@@ -75,4 +75,5 @@ The system exposes a browser-based dashboard (polling every 2s) across four tabs
 - Planned: migration to a more powerful board (Jetson Nano / Pi 5), OBD-II + automotive-grade sensors, fleet-wide cloud sync, and adaptive fault thresholds
 
 
-Built as part of an academic research project at VNR Vignana Jyothi Institute of Engineering & Technology, Department of Electronics & Instrumentation Engineering.
+Built as part of a final-year major project at VNR Vignana Jyothi Institute of Engineering & Technology, Department of Electronics & Instrumentation Engineering.
+Team - Pradyotha, Harshini, Pranathi
