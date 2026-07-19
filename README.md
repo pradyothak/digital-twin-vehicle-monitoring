@@ -47,6 +47,9 @@ All 7 design objectives (real-time twin sync, multi-sensor monitoring, live dash
 
 `Python 3` · `TensorFlow / Keras` (LSTM) · `Flask` (REST API + dashboard) · `NumPy` · `RPi.GPIO` / Adafruit drivers · `Raspberry Pi OS`
 
+## Source Code
+**[View source code](src/)**
+
 Four concurrent threads (sensor acquisition, LSTM inference, LCD update, Flask server) share state through a lock-protected dictionary to avoid race conditions.
 
 ## Hardware Prototype
